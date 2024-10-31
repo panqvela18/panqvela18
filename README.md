@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Irakli Pankvelashvili</h1>
-<h3 align="center">Junior frontend developer from Georgia</h3>
+<h3 align="center">frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panqvela18&label=Profile%20views&color=0e75b6&style=flat" alt="panqvela18" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next Js**
 
-- 💬 Ask me about **react,javascript,tailwind.**
+- 💬 Ask me about **Next,React,Javascript,Tailwind.**
 
 - 📫 How to reach me **irakli.pankvelashvili@gmail.com**
 
